@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kshitizdoon/react/static/css/main.44eb1d9e.css",
+    "main.js": "/kshitizdoon/react/static/js/main.2b1056c7.js",
+    "static/js/787.bc412fff.chunk.js": "/kshitizdoon/react/static/js/787.bc412fff.chunk.js",
+    "static/media/MY_PHOTO.jpg": "/kshitizdoon/react/static/media/MY_PHOTO.c8161ff13f0805959c9c.jpg",
+    "index.html": "/kshitizdoon/react/index.html",
+    "main.44eb1d9e.css.map": "/kshitizdoon/react/static/css/main.44eb1d9e.css.map",
+    "main.2b1056c7.js.map": "/kshitizdoon/react/static/js/main.2b1056c7.js.map",
+    "787.bc412fff.chunk.js.map": "/kshitizdoon/react/static/js/787.bc412fff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44eb1d9e.css",
+    "static/js/main.2b1056c7.js"
+  ]
+}
